@@ -1,5 +1,12 @@
 package org.test;
 
+/*
+A                 
+A B A             
+A B C B A         
+A B C D C B A     
+A B C D E D C B A 
+ */
 public class Q3_pattern3 {
 
 	public static void main(String[] args) 
