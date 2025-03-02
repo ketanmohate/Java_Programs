@@ -1,5 +1,14 @@
 package org.test;
 
+/*
+*   *   *   *   *   * 
+  *   *   *   *   *   
+    *   *   *   *     
+      *   *   *       
+        *   *         
+          *    
+ */
+
 public class Q2_pattern2 {
 
 	public static void main(String[] args) 
